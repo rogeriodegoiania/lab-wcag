@@ -1,0 +1,2 @@
+# Diretriz 1.1 Alternativas em Texto§
+* Fornecer alternativas textuais para qualquer conteúdo não textual, para que possa ser transformado em outras formas de acordo com as necessidades dos usuários, tais como impressão com tamanho de fontes maiores, braille, fala, símbolos ou linguagem mais simples.
