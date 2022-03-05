@@ -2,7 +2,7 @@
 * O objetivo desta técnica é fornecer uma breve descrição de um elemento que pode ser lido por tecnologias assistivas (AT) usando o atributo **aria-labelledby**.
 * O atributo **aria-labelledby** associa um elemento a um texto que é visível em outro lugar na página usando um valor de referência de ID que corresponde ao atributo ID do elemento de rotulagem.
 
-## Exemplo1
+## Exemplo 1
 ```html
 <div role="img" aria-labelledby="star_id">
     <img src="fullstar.png" alt=""/>
