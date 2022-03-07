@@ -40,7 +40,10 @@
 * F30: Falha no Critério de Sucesso 1.1.1 e 1.2.1 devido ao uso de alternativas de texto que não são alternativas (por exemplo, nomes de arquivos ou texto de espaço reservado)
 * F38: Falha do Critério de Sucesso 1.1.1 devido à não marcação de imagens decorativas em HTML de uma forma que permita que a tecnologia assistiva as ignore
 * F39: Falha no Critério de Sucesso 1.1.1 devido ao fornecimento de uma alternativa de texto que não é nula (por exemplo, alt="spacer" ou alt="image") para imagens que devem ser ignoradas pela tecnologia assistiva
-* F65: Falha no Critério de Sucesso 1.1.1 devido à omissão do atributo alt ou alternativa de texto em elementos img, elementos de área e elementos de entrada do tipo "imagem"
+* F65: Falha no Critério de Sucesso 1.1.1 devido à omissão do atributo **alt** ou alternativa de texto em elementos **img**, elementos **area** e elementos **input** do tipo "image"
+* F67: Falha no Critério de Sucesso 1.1.1 e 1.2.1 devido ao fornecimento de descrições longas para conteúdo não textual que não serve ao mesmo propósito ou não apresenta as mesmas informações
+* F71: Falha do Critério de Sucesso 1.1.1 devido ao uso de textos semelhantes para representar texto sem fornecer uma alternativa de texto
+* F72: Falha no Critério de Sucesso 1.1.1 devido ao uso de arte ASCII sem fornecer uma alternativa de texto
 
 ## Referências
 * https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html
